@@ -12,7 +12,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/abbouse/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/-Flutter-blue"></a> ecosystem
+  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/-Flutter-blue" style="margin-bottom:-3px;"></a> ecosystem
 - 📬 How to reach me: [abbosbey02@gmail.com](mailto:abbosbey02@gmail.com)
 - 📝 [Telegram](https://t.me/toordaliev).
 - 💪 This is where I write, code and solve problems:
