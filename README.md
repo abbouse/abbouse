@@ -18,7 +18,7 @@ That's why I like to make things that make a difference.
 - ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/-Flutter-blue"></a> ecosystem
 - 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
 - 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
