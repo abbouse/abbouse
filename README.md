@@ -14,7 +14,7 @@
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/abbouse/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/-Flutter-blue"></a> ecosystem
 - 📬 How to reach me: [abbosbey02@gmail.com](mailto:abbosbey02@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmw).
+- 📝 [Telegram](https://t.me/toordaliev).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
